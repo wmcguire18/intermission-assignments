@@ -7,7 +7,7 @@ Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it i
 
 ### Libraries and Frameworks
 
-* What is a JavaScript framework? [Watch this video.](https://www.youtube.com/watch?v=sXA1zpv4DhA)
+* What is a JavaScript framework? [Watch this video.](https://www.youtube.com/watch?v=sXA1zpv4DhA) ###DONE
 * Why would we want to use a framework? [Read this article.](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)
 
 There are a bunch of JavaScript frameworks out there to use. At Turing, we choose to teach **React** - it's one of the most popular frameworks out there. Actually, a lot of developers will call React a library, which it is...but it can also be described as a framework. It's a little confusing, but the lines are blurred for React. Let's just say that React is a library with some rules and conventions to follow.
