@@ -3,7 +3,7 @@
 ## Instructional Pre-Work for Mod 3
 
 ### Destructuring
-Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it in React Code. While you'll never be *required* to use destructuring, you should definitely be able to work with it and understand how it works. Walk through [this lesson](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html) and follow it up with some self study if you'd like to.
+Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it in React Code. While you'll never be *required* to use destructuring, you should definitely be able to work with it and understand how it works. Walk through [this lesson](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html) and follow it up with some self study if you'd like to. ### DONE
 
 ### Libraries and Frameworks
 
