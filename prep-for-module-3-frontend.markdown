@@ -58,7 +58,7 @@ xcode-select -v
 # If you don't have the CLT, run:
 xcode-select --install
 
-```
+```###DONE
 
 ### Habits
 
@@ -66,7 +66,7 @@ In Mod 3, you'll begin building up the habits you'll take with you beyond Turing
 
 - When do you work most effectively? The morning? The afternoon? The evening? 
 - While beginning to learn about React, what do you find most effective? Watching videos? Reading docs? Trying out the code yourself? A combination?
-- What are some daily routines you need to keep up in order to be well-rested and able to learn?
+- What are some daily routines you need to keep up in order to be well-rested and able to learn?###DONE
 
 ## Deliverables 
 
