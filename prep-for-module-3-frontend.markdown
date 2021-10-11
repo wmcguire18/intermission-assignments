@@ -82,7 +82,7 @@ Create a GitHub gist to answer these questions in as much detail as possible. Im
 * What is React "state?"
 * What does "data down, actions up" mean in React?
 
-_Note:_ As you do your research, stay away from React articles that talk exclusively about "hooks". We _will_ be learning hooks in Mod 3 but they are not a requirement for success in the module.
+_Note:_ As you do your research, stay away from React articles that talk exclusively about "hooks". We _will_ be learning hooks in Mod 3 but they are not a requirement for success in the module. ###DONE
 
 **By 5PM on Friday of intermission, send a link to your gist in a DM to _both_ of your instructors.**
 
