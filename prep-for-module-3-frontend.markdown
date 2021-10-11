@@ -14,7 +14,7 @@ There are a bunch of JavaScript frameworks out there to use. At Turing, we choos
 
 Go through these resources to get started learning some React!
 
-* Read over Tyler McGinnis' [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+* Read over Tyler McGinnis' [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) ###DONE
 * Go through the [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
 * Take a deeper dive into JSX with the [React docs](https://reactjs.org/docs/introducing-jsx.html) and this [tutorial](https://flaviocopes.com/jsx/)
 * Take a look at some extra [JSX gotchas (courtesy of tyler McGinnis)](https://ui.dev/jsx/)
@@ -91,7 +91,7 @@ Please update your LinkedIn profiles with...
 * additional skills that you’ve learned since Mod 1
 * ensure you have technical keywords in your About Me professional story
 * take “student” out of your headline if it’s there 
-* any other updates needed to get your LinkedIn optimized for your job search  
+* any other updates needed to get your LinkedIn optimized for your job search  ###done for now
 
 [Here’s a refresher on our guidelines for effective LinkedIn profiles.](https://careerdev.turing.edu/resources/branding_resources) The Career Dev team will be requesting a re-submission of your LinkedIn on Friday of Week 2, and we recommend using intermission to work on this.
 
